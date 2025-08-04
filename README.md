@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TQ-Tech
 - 👀 I’m interested in growking my skills
-- 🌱 I’m currently learning the beginner stuff, java, css, c
+- 🌱 I’m currently learning the beginner admin stuff- powershell, python, bash
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me xtaqwa.armstrongx@gmail.com
 - ⚡ Fun fact: I have one dog and three cats
